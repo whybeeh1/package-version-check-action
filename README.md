@@ -5,7 +5,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/technote-space/package-version-check-action/badge)](https://www.codefactor.io/repository/github/technote-space/package-version-check-action)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/technote-space/package-version-check-action/blob/master/LICENSE)
 
-*Readeeeeeeee this in other languages: [English](README.md), [日本語](README.ja.md).*
+*Readeefffeeeeee this in other languages: [English](README.md), [日本語](README.ja.md).*
 
 This is a `GitHub Actions` to check package version before publish npm.
 
